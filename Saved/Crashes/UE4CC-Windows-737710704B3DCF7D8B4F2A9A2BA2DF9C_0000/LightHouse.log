@@ -1,0 +1,1798 @@
+﻿Log file open, 10/14/20 09:22:28
+LogInit: Display: Running engine for game: LightHouse
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.616409
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 2600X Six-Core Processor           , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=Clifftastic -epicuserid=c038ac214e67492b901f3e4cb5e86b8b -epiclocale=en
+LogInit: Base Directory: F:/Hob/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.14-07.22.28:455][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Engine.ini]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Engine.ini]
+[2020.10.14-07.22.28:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Engine.ini]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Engine.ini]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.14-07.22.28:456][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Engine.ini]
+[2020.10.14-07.22.28:456][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Engine.ini]
+[2020.10.14-07.22.28:461][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.14-07.22.28:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.14-07.22.28:462][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.14-07.22.28:463][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.14-07.22.28:463][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.14-07.22.28:463][  0]LogHAL: Display: Platform has ~ 16 GB [17105960960 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.14-07.22.28:463][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.14-07.22.28:463][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.14-07.22.28:463][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.14-07.22.28:464][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Config/Windows/Engine.ini]
+[2020.10.14-07.22.28:465][  0]LogInit: Computer: DESKTOP-PQ7A293
+[2020.10.14-07.22.28:465][  0]LogInit: User: Cliff
+[2020.10.14-07.22.28:465][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.10.14-07.22.28:465][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.14-07.22.28:465][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.10.14-07.22.28:465][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.14-07.22.28:465][  0]LogMemory: Process Physical Memory: 116.54 MB used, 116.54 MB peak
+[2020.10.14-07.22.28:465][  0]LogMemory: Process Virtual Memory: 107.90 MB used, 107.90 MB peak
+[2020.10.14-07.22.28:465][  0]LogMemory: Physical Memory: 6984.74 MB used,  9328.78 MB free, 16313.52 MB total
+[2020.10.14-07.22.28:465][  0]LogMemory: Virtual Memory: 5179.72 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.10.14-07.22.28:474][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.14-07.22.28:519][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.14-07.22.28:520][  0]LogInit: Using OS detected language (sv-SE).
+[2020.10.14-07.22.28:520][  0]LogInit: Using OS detected locale (sv-SE).
+[2020.10.14-07.22.28:523][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2020.10.14-07.22.28:732][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.14-07.22.28:765][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.14-07.22.28:765][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.14-07.22.28:995][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.14-07.22.28:995][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.14-07.22.28:995][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.14-07.22.28:995][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.14-07.22.29:095][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.10.14-07.22.29:095][  0]LogD3D11RHI:       5980/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.10.14-07.22.29:097][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.14-07.22.29:097][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.14-07.22.29:097][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.14-07.22.29:105][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.14-07.22.29:105][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.14-07.22.29:105][  0]LogWindows: EnumDisplayDevices:
+[2020.10.14-07.22.29:106][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.10.14-07.22.29:106][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2020.10.14-07.22.29:106][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.10.14-07.22.29:107][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.10.14-07.22.29:107][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.10.14-07.22.29:107][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.10.14-07.22.29:107][  0]LogD3D11RHI:   Driver Version: 452.06 (internal:27.21.14.5206, unified:452.06)
+[2020.10.14-07.22.29:107][  0]LogD3D11RHI:      Driver Date: 8-12-2020
+[2020.10.14-07.22.29:107][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.10.14-07.22.29:173][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.14-07.22.29:175][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.10.14-07.22.29:175][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.14-07.22.29:175][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.14-07.22.29:215][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.14-07.22.29:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.14-07.22.29:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.14-07.22.29:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.14-07.22.29:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.14-07.22.29:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.14-07.22.29:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.14-07.22.29:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.14-07.22.29:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.14-07.22.29:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.14-07.22.29:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.14-07.22.29:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.14-07.22.29:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.14-07.22.29:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.14-07.22.29:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.14-07.22.29:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.14-07.22.29:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.14-07.22.29:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.14-07.22.29:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.14-07.22.29:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.14-07.22.29:644][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.14-07.22.29:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.14-07.22.29:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.14-07.22.29:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.14-07.22.29:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.14-07.22.29:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.14-07.22.29:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.14-07.22.29:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.14-07.22.29:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.14-07.22.29:727][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.14-07.22.29:737][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.14-07.22.29:811][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Intermediate/Shaders/WorkingDirectory/6004/).
+[2020.10.14-07.22.29:811][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cliff/AppData/Local/Temp/UnrealShaderWorkingDir/485C35C047D2DF774D7E5AA1C516D85D/'.
+[2020.10.14-07.22.29:812][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.14-07.22.29:812][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.14-07.22.29:812][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.14-07.22.30:557][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.14-07.22.30:598][  0]LogDerivedDataCache: Loaded boot cache 0.04s 75MB C:/Users/Cliff/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.14-07.22.30:598][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cliff/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.14-07.22.30:623][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.14-07.22.30:623][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.14-07.22.30:623][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.14-07.22.30:623][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.14-07.22.30:634][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.14-07.22.30:634][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.14-07.22.30:634][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.14-07.22.30:636][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cliff/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.14-07.22.30:636][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.14-07.22.30:636][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.14-07.22.30:685][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.14-07.22.30:686][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.14-07.22.30:708][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.10.14-07.22.30:931][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.14-07.22.31:148][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.14-07.22.31:148][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.14-07.22.31:148][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.14-07.22.31:148][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.14-07.22.31:148][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.14-07.22.31:165][  0]LogNetVersion: LightHouse 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3960390514)
+[2020.10.14-07.22.31:640][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000029BF4D91BC0), frame # 0
+[2020.10.14-07.22.31:640][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029BF4BB4900), frame # 0
+[2020.10.14-07.22.31:642][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029BF4BD5E00), frame # 0
+[2020.10.14-07.22.33:381][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 1.733360 seconds
+[2020.10.14-07.22.33:386][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.14-07.22.33:386][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.14-07.22.33:386][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.14-07.22.33:717][  0]LogPython: Using Python 2.7.14
+[2020.10.14-07.22.34:503][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.14-07.22.34:508][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.14-07.22.34:621][  0]SourceControl: Source control is disabled
+[2020.10.14-07.22.34:621][  0]SourceControl: Source control is disabled
+[2020.10.14-07.22.34:625][  0]SourceControl: Source control is disabled
+[2020.10.14-07.22.34:629][  0]SourceControl: Source control is disabled
+[2020.10.14-07.22.34:637][  0]SourceControl: Source control is disabled
+[2020.10.14-07.22.35:004][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.14-07.22.35:037][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.14-07.22.35:037][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.14-07.22.35:109][  0]LogOcInput: OculusInput pre-init called
+[2020.10.14-07.22.35:120][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.14-07.22.35:120][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.14-07.22.35:472][  0]LogEngine: Initializing Engine...
+[2020.10.14-07.22.35:473][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.14-07.22.35:473][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.14-07.22.35:474][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.14-07.22.35:576][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.14-07.22.35:586][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.14-07.22.35:586][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029BEF2FBC00), frame # 0
+[2020.10.14-07.22.35:586][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029B8003E340), frame # 0
+[2020.10.14-07.22.35:596][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-07.22.35:596][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-07.22.35:596][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-07.22.35:596][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-07.22.35:596][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-07.22.35:596][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-07.22.35:596][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-07.22.35:596][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-07.22.35:596][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-07.22.35:596][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-07.22.35:617][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-07.22.35:617][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-07.22.35:686][  0]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (Corsair VOID PRO Surround USB Adapter)
+[2020.10.14-07.22.35:687][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-07.22.35:691][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-07.22.35:691][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-07.22.35:692][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-07.22.35:694][  0]LogInit: FAudioDevice initialized.
+[2020.10.14-07.22.35:694][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.14-07.22.35:762][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/Cliff/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.14-07.22.35:767][  0]LogInit: Texture streaming: Enabled
+[2020.10.14-07.22.35:788][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.14-07.22.35:788][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.14-07.22.35:791][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.14-07.22.36:708][  0]LogInit: Transaction tracking system initialized
+[2020.10.14-07.22.36:734][  0]BlueprintLog: New page: Editor Load
+[2020.10.14-07.22.36:858][  0]LocalizationService: Localization service is disabled
+[2020.10.14-07.22.37:142][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.14-07.22.37:142][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.14-07.22.37:310][  0]LogFileCache: Scanning file cache for directory 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Content/' took 0.06s
+[2020.10.14-07.22.37:495][  0]SourceControl: Source control is disabled
+[2020.10.14-07.22.37:495][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.929
+[2020.10.14-07.22.37:495][  0]Cmd: MAP LOAD FILE="E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.14-07.22.37:582][  0]LightingResults: New page: Lighting Build
+[2020.10.14-07.22.37:583][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-07.22.37:583][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-07.22.37:584][  0]MapCheck: New page: Map Check
+[2020.10.14-07.22.37:584][  0]LightingResults: New page: Lighting Build
+[2020.10.14-07.22.37:596][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000029BEF2FBC00), frame # 0
+[2020.10.14-07.22.37:596][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000029B8003E340), frame # 0
+[2020.10.14-07.22.37:596][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.10.14-07.22.47:507][  0]LogTexture: Display: Building textures: T_Crow_Specular (AutoDXT, 32X32)
+[2020.10.14-07.22.47:507][  0]LogTexture: Display: Building textures: T_Crow_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.10.14-07.22.47:507][  0]LogTexture: Display: Building textures: T_Crow_Nml (BC5, 2048X2048)
+[2020.10.14-07.22.47:753][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_IdleLookAround.ANIM_Fox_IdleLookAround
+[2020.10.14-07.22.47:753][  0]LogTexture: Display: Building textures: T_Fox_BaseColor (AutoDXT, 2048X2048)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 32X32)
+[2020.10.14-07.22.51:855][  0]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_187 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_203 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_208 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_216 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_222 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_223 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_224 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_225 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_227 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_226 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_230 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_231 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_234 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_235 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_251 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_254 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_256 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_258 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_259 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_262 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_263 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_264 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_265 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_266 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_267 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_268 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_269 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_270 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_271 (BGRA8, 32X32)
+[2020.10.14-07.22.51:856][  0]LogTexture: Display: Building textures: Texture2D_272 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_273 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_274 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_275 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_276 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_279 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_281 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_282 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_280 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_283 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_284 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_286 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_285 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_287 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_288 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_289 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_292 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_293 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: T_Fox_Specular (AutoDXT, 32X32)
+[2020.10.14-07.22.51:857][  0]LogTexture: Display: Building textures: T_Fox_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.10.14-07.22.52:684][  0]LogTexture: Display: Building textures: T_Fox_Nml (BC5, 2048X2048)
+[2020.10.14-07.22.52:684][  0]LogTexture: Display: Building textures: T_Crow_BaseColor (AutoDXT, 2048X2048)
+[2020.10.14-07.22.52:684][  0]LogMaterial: Display: Missing cached shader map for material M_Fox, compiling. 
+[2020.10.14-07.22.52:822][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.10.14-07.22.52:822][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2020.10.14-07.22.52:822][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.10.14-07.22.52:822][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.10.14-07.22.52:822][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.10.14-07.22.52:822][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.10.14-07.22.52:822][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.10.14-07.22.52:822][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.10.14-07.22.52:822][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Fox...
+[2020.10.14-07.22.52:863][  0]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/AnimalVarietyPack/Fox/Meshes/SK_Fox.SK_Fox
+[2020.10.14-07.22.53:273][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_Walk.ANIM_Fox_Walk
+[2020.10.14-07.22.53:274][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_Run.ANIM_Fox_Run
+[2020.10.14-07.22.54:778][  0]LogMaterial: Display: Missing cached shader map for material M_Crow, compiling. 
+[2020.10.14-07.22.54:859][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 98
+[2020.10.14-07.22.54:859][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Crow...
+[2020.10.14-07.22.54:862][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow
+[2020.10.14-07.22.54:864][  0]LogMaterial: Display: Missing cached shader map for material M_FoxFur, compiling. 
+[2020.10.14-07.22.55:287][  0]LogMaterial: Display: Missing cached shader map for material M_GodRay, compiling. 
+[2020.10.14-07.22.55:452][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.14-07.22.55:455][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029B9BE89C00), frame # 0
+[2020.10.14-07.22.55:455][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029B96E6CF40), frame # 0
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 219
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 209
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 199
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 189
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 179
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 169
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 159
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 149
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 139
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 129
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 119
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 109
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 99
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 89
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 79
+[2020.10.14-07.23.11:514][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 70
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 62
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 48
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 42
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 32
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 18
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 4
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.10.14-07.23.11:515][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.10.14-07.23.11:568][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.14-07.23.11:861][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.10.14-07.23.11:862][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.14-07.23.11:862][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,119ms to complete.
+[2020.10.14-07.23.11:862][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 34.368
+[2020.10.14-07.23.11:991][  0]LogUnrealEdMisc: Total Editor Startup Time, took 46.425
+[2020.10.14-07.23.12:449][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-07.23.12:455][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-07.23.12:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-07.23.12:468][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-07.23.12:564][  0]LogCollectionManager: Loaded 0 collections in 0.041750 seconds
+[2020.10.14-07.23.12:651][  0]LogFileCache: Scanning file cache for directory 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Collections/' took 0.00s
+[2020.10.14-07.23.12:651][  0]LogFileCache: Scanning file cache for directory 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Content/Developers/Cliff/Collections/' took 0.00s
+[2020.10.14-07.23.12:651][  0]LogFileCache: Scanning file cache for directory 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Content/Collections/' took 0.00s
+[2020.10.14-07.23.12:651][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3446 classes and 828 folders.
+[2020.10.14-07.23.12:677][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.14-07.23.14:154][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.14-07.23.14:180][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.10.14-07.23.14:887][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.14-07.23.14:901][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.14-07.23.14:922][  0]LogSlate: Took 0.015670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.14-07.23.15:118][  0]LogRenderer: Reallocating scene render targets to support 1192x700 Format 10 NumSamples 1 (Frame:1).
+[2020.10.14-07.23.15:423][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.14-07.23.15:424][  0]LogLoad: (Engine Initialization) Total time: 49.86 seconds
+[2020.10.14-07.23.15:424][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.14-07.23.15:481][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Fly.ANIM_Crow_Fly
+[2020.10.14-07.23.15:481][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Hop.ANIM_Crow_Hop
+[2020.10.14-07.23.15:481][  0]LogAssetRegistry: Asset discovery search completed in 44.7750 seconds
+[2020.10.14-07.23.15:485][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.10.14-07.23.15:499][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.14-07.23.15:593][  0]LogSlate: Took 0.017150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.14-07.23.15:773][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_IdleLookAround.ANIM_Crow_IdleLookAround
+[2020.10.14-07.23.15:773][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Walk.ANIM_Crow_Walk
+[2020.10.14-07.23.16:776][  4]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.14-07.58.22:164][120]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyCreations/Widgets/GameHud.GameHud
+[2020.10.14-07.58.22:794][120]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.10.14-07.58.24:520][120]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.14-07.58.47:153][909]LogSlate: Took 0.012231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.14-07.59.32:296][551]LogSlate: Took 0.038036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.14-08.00.30:051][913]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.10.14-08.00.30:056][913]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.064
+[2020.10.14-08.00.30:439][913]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyCreations/Widgets/GameHud] ([1] browsable assets)...
+[2020.10.14-08.00.30:440][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyCreations/Widgets/GameHud]
+[2020.10.14-08.00.30:943][913]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/GameHud_Auto16A85FA54419B9A6D13BA138FB3E014E5.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/MyCreations/Widgets/GameHud_Auto1.uasset'
+[2020.10.14-08.00.31:021][913]LogFileHelpers: Auto-saving content packages took 0.966
+[2020.10.14-08.20.19:317][889]BlueprintLog: New page: Compile GameHud
+[2020.10.14-08.20.19:884][889]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.10.14-08.21.53:291][340]BlueprintLog: New page: Compile GameHud
+[2020.10.14-08.21.53:390][340]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.10.14-08.21.54:734][447]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.14-08.21.54:798][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-08.21.54:815][447]PIE: New page: PIE session: FirstPersonExampleMap (14 okt. 2020 12:21:54)
+[2020.10.14-08.21.54:823][447]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.14-08.21.54:828][447]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.14-08.21.54:828][447]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.14-08.21.55:172][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.345061s)
+[2020.10.14-08.21.55:174][447]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.14-08.21.55:174][447]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029C6D146000), frame # 34447
+[2020.10.14-08.21.55:174][447]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029C6B087EC0), frame # 34447
+[2020.10.14-08.21.55:174][447]LogPlayLevel: PIE: World Init took: (0.001790s)
+[2020.10.14-08.21.55:174][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.347049s)
+[2020.10.14-08.21.55:203][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.10.14-08.21.55:205][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-08.21.55:205][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-08.21.55:205][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-08.21.55:205][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-08.21.55:206][447]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-08.21.55:206][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-08.21.55:206][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-08.21.55:206][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-08.21.55:206][447]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-08.21.55:206][447]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-08.21.55:216][447]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-08.21.55:216][447]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-08.21.55:253][447]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (Corsair VOID PRO Surround USB Adapter)
+[2020.10.14-08.21.55:253][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-08.21.55:253][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-08.21.55:253][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-08.21.55:253][447]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-08.21.55:264][447]LogInit: FAudioDevice initialized.
+[2020.10.14-08.21.55:277][447]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.14-08.21.55:325][447]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.10.14-10.21.55
+[2020.10.14-08.21.55:347][447]LogWorld: Bringing up level for play took: 0.069132
+[2020.10.14-08.21.55:347][447]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.10.14-08.21.55:381][447]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.10.14-08.21.55:408][447]PIE: Server logged in
+[2020.10.14-08.21.55:409][447]PIE: Play in editor total start time 0,652 seconds.
+[2020.10.14-08.21.57:299][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-08.21.57:300][556]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.14-08.21.57:301][556]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-08.21.57:312][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-08.21.57:321][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-08.21.57:328][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-08.21.57:352][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-08.21.57:532][556]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000029C6B087EC0), frame # 34556
+[2020.10.14-08.21.57:532][556]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000029C6D146000), frame # 34556
+[2020.10.14-08.21.57:572][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.10.14-08.21.57:616][557]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.10.14-08.22.46:054][323]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.10.14-08.22.46:057][323]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.059
+[2020.10.14-08.22.46:057][323]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyCreations/Widgets/GameHud] ([1] browsable assets)...
+[2020.10.14-08.22.46:057][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyCreations/Widgets/GameHud]
+[2020.10.14-08.22.46:634][323]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/GameHud_Auto27149FB9C4C7AB7D5DB5B7E9A81B65375.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/MyCreations/Widgets/GameHud_Auto2.uasset'
+[2020.10.14-08.22.46:651][323]LogFileHelpers: Auto-saving content packages took 0.595
+[2020.10.14-08.23.28:688][717]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.10.14-08.32.47:203][600]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.10.14-08.32.55:318][600]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/FirstPersonExampleMap_Auto3ABB46E39401812479AD96A9973EF848C.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2020.10.14-08.32.55:397][600]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 8.231
+[2020.10.14-08.32.55:397][600]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 8.231
+[2020.10.14-08.32.55:397][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.10.14-08.32.55:442][600]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.10.14-08.32.55:442][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.10.14-08.32.56:103][600]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/FirstPersonCharacter_Auto3B9BB31EE436849F2909E18ADE36F4761.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2020.10.14-08.32.56:140][600]LogFileHelpers: Auto-saving content packages took 0.744
+[2020.10.14-09.12.06:655][642]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.10.14-09.12.07:175][642]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.10.14-09.12.07:569][642]LogSlate: Took 0.026333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.14-09.12.46:038][258]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.10.14-09.12.53:544][258]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/FirstPersonExampleMap_Auto48022F819452DEF37964FBAA46D48CA43.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2020.10.14-09.12.53:551][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 7.555
+[2020.10.14-09.12.53:551][258]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 7.555
+[2020.10.14-09.14.29:723][926]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.10.14-09.14.29:873][926]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.10.14-09.16.26:535][421]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.10.14-09.16.26:660][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.10.14-09.16.28:379][509]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.14-09.16.28:404][509]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.14-09.16.28:405][509]LogPlayLevel: [PlayLevel] Compiling BP_Interactable_Pickup before play...
+[2020.10.14-09.16.28:437][509]LogPlayLevel: [PlayLevel] Compiling BP_Pickup_Mushroom before play...
+[2020.10.14-09.16.28:507][509]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.10.14-09.16.28:510][509]LogPlayLevel: PlayLevel: Blueprint regeneration took 106 ms (2 blueprints)
+[2020.10.14-09.16.28:510][509]PIE: New page: PIE session: FirstPersonExampleMap (14 okt. 2020 13:16:28)
+[2020.10.14-09.16.28:510][509]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.14-09.16.28:814][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.303176s)
+[2020.10.14-09.16.28:815][509]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.14-09.16.28:815][509]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029C0CF07E00), frame # 60509
+[2020.10.14-09.16.28:815][509]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029C938991C0), frame # 60509
+[2020.10.14-09.16.28:816][509]LogPlayLevel: PIE: World Init took: (0.001915s)
+[2020.10.14-09.16.28:816][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.305405s)
+[2020.10.14-09.16.28:845][509]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.10.14-09.16.28:847][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-09.16.28:847][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-09.16.28:847][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-09.16.28:847][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-09.16.28:847][509]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-09.16.28:847][509]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-09.16.28:847][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-09.16.28:847][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-09.16.28:848][509]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-09.16.28:848][509]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-09.16.28:897][509]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-09.16.28:897][509]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-09.16.28:934][509]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (Corsair VOID PRO Surround USB Adapter)
+[2020.10.14-09.16.28:934][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-09.16.28:934][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-09.16.28:934][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-09.16.28:934][509]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-09.16.28:947][509]LogInit: FAudioDevice initialized.
+[2020.10.14-09.16.28:966][509]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.14-09.16.29:016][509]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.10.14-11.16.29
+[2020.10.14-09.16.29:018][509]LogWorld: Bringing up level for play took: 0.051761
+[2020.10.14-09.16.29:018][509]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.10.14-09.16.29:029][509]PIE: Server logged in
+[2020.10.14-09.16.29:030][509]PIE: Play in editor total start time 0,628 seconds.
+[2020.10.14-09.16.29:055][509]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:441][510]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:456][511]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:481][512]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:495][513]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:510][514]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:524][515]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:542][516]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:557][517]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:572][518]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:587][519]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:602][520]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:616][521]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:630][522]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:643][523]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:657][524]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:673][525]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:686][526]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:702][527]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:716][528]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:732][529]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:746][530]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:759][531]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:773][532]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:786][533]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:800][534]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:813][535]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:828][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:842][537]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:856][538]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:869][539]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:883][540]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:896][541]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:909][542]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:923][543]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:937][544]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:951][545]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:965][546]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:979][547]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.29:992][548]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:008][549]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:023][550]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:038][551]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:053][552]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:069][553]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:082][554]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:097][555]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:111][556]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:124][557]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:138][558]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:151][559]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:166][560]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:180][561]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:195][562]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:208][563]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:222][564]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:241][565]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:256][566]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:270][567]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:283][568]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:297][569]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:311][570]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:326][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:339][572]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:353][573]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:368][574]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:381][575]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:396][576]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/MyCreations/Widgets/GameHud.GameHud_C:Get Percent
+
+[2020.10.14-09.16.30:427][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-09.16.30:427][577]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.14-09.16.30:428][577]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-09.16.30:438][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-09.16.30:447][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-09.16.30:453][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-09.16.30:493][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-09.16.30:515][577]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000029C938991C0), frame # 60577
+[2020.10.14-09.16.30:515][577]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000029C0CF07E00), frame # 60577
+[2020.10.14-09.16.30:523][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.10.14-09.16.30:588][578]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.10.14-09.16.35:697][891]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.10.14-09.16.35:811][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.10.14-09.16.37:408][978]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.14-09.16.37:431][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-09.16.37:431][978]PIE: New page: PIE session: FirstPersonExampleMap (14 okt. 2020 13:16:37)
+[2020.10.14-09.16.37:431][978]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.14-09.16.37:717][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.286032s)
+[2020.10.14-09.16.37:718][978]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.14-09.16.37:718][978]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029C9A3CBE00), frame # 60978
+[2020.10.14-09.16.37:718][978]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029C7170CF40), frame # 60978
+[2020.10.14-09.16.37:718][978]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2020.10.14-09.16.37:718][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.287451s)
+[2020.10.14-09.16.37:753][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.10.14-09.16.37:756][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-09.16.37:756][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-09.16.37:756][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-09.16.37:756][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-09.16.37:756][978]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-09.16.37:756][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-09.16.37:756][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-09.16.37:756][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-09.16.37:756][978]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-09.16.37:756][978]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-09.16.37:765][978]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-09.16.37:765][978]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-09.16.37:798][978]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (Corsair VOID PRO Surround USB Adapter)
+[2020.10.14-09.16.37:798][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-09.16.37:798][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-09.16.37:798][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-09.16.37:799][978]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-09.16.37:809][978]LogInit: FAudioDevice initialized.
+[2020.10.14-09.16.37:817][978]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.14-09.16.37:858][978]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.10.14-11.16.37
+[2020.10.14-09.16.37:860][978]LogWorld: Bringing up level for play took: 0.042549
+[2020.10.14-09.16.37:860][978]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.10.14-09.16.37:871][978]PIE: Server logged in
+[2020.10.14-09.16.37:871][978]PIE: Play in editor total start time 0,442 seconds.
+[2020.10.14-09.17.03:693][694]PIE: Warning: The widget 'PickupWidget_C' was already added to the screen.
+[2020.10.14-09.17.04:205][727]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] true
+[2020.10.14-09.17.04:656][757]PIE: Warning: The widget 'PickupWidget_C' was already added to the screen.
+[2020.10.14-09.17.04:761][764]PIE: Warning: The widget 'PickupWidget_C' was already added to the screen.
+[2020.10.14-09.17.04:790][766]PIE: Warning: The widget 'PickupWidget_C' was already added to the screen.
+[2020.10.14-09.17.04:863][771]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] true
+[2020.10.14-09.17.05:648][825]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] true
+[2020.10.14-09.17.11:783][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-09.17.11:783][236]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.14-09.17.11:783][236]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-09.17.11:794][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-09.17.11:806][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-09.17.11:812][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-09.17.11:864][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-09.17.12:010][236]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000029C7170CF40), frame # 63236
+[2020.10.14-09.17.12:010][236]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000029C9A3CBE00), frame # 63236
+[2020.10.14-09.17.12:018][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.10.14-09.17.12:171][237]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.10.14-09.17.13:798][335]LogSlate: Window 'Message Log' being destroyed
+[2020.10.14-09.17.13:805][335]LogSlate: Window 'Message Log' being destroyed
+[2020.10.14-09.18.28:877][ 25]LogEditorTransaction: Undo Split Struct Pin
+[2020.10.14-09.23.30:107][715]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.10.14-09.23.37:419][715]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/FirstPersonExampleMap_Auto5EABF20BE4F550418F7F6F59CDAFFE950.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2020.10.14-09.23.37:441][715]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 7.389
+[2020.10.14-09.23.37:441][715]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 7.389
+[2020.10.14-09.23.37:441][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.10.14-09.23.37:462][715]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.10.14-09.23.37:462][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.10.14-09.23.37:893][715]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/FirstPersonCharacter_Auto58824CAF94EFCB356898C6A864A7ECEEF.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset'
+[2020.10.14-09.23.37:917][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyCreations/Blueprints/Pickups/BP_Interactable_Pickup] ([1] browsable assets)...
+[2020.10.14-09.23.37:950][715]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyCreations/Blueprints/Pickups/BP_Interactable_Pickup.BP_Interactable_Pickup]
+[2020.10.14-09.23.37:950][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyCreations/Blueprints/Pickups/BP_Interactable_Pickup]
+[2020.10.14-09.23.38:088][715]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/BP_Interactable_Pickup_Auto54A489F7241ACF65CB2B065A4BAAB2F15.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/MyCreations/Blueprints/Pickups/BP_Interactable_Pickup_Auto5.uasset'
+[2020.10.14-09.23.38:113][715]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyCreations/Blueprints/Pickups/BP_Pickup_Mushroom] ([1] browsable assets)...
+[2020.10.14-09.23.38:149][715]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyCreations/Blueprints/Pickups/BP_Pickup_Mushroom.BP_Pickup_Mushroom]
+[2020.10.14-09.23.38:149][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyCreations/Blueprints/Pickups/BP_Pickup_Mushroom]
+[2020.10.14-09.23.38:328][715]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/BP_Pickup_Mushroom_Auto515613E7645ABDB4B6E0613B0761F7C52.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/MyCreations/Blueprints/Pickups/BP_Pickup_Mushroom_Auto5.uasset'
+[2020.10.14-09.23.38:330][715]LogFileHelpers: Auto-saving content packages took 0.889
+[2020.10.14-09.25.53:995][252]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.10.14-09.25.54:139][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.10.14-09.25.55:279][308]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.14-09.25.55:302][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-09.25.55:302][308]PIE: New page: PIE session: FirstPersonExampleMap (14 okt. 2020 13:25:55)
+[2020.10.14-09.25.55:302][308]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.14-09.25.55:593][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.290628s)
+[2020.10.14-09.25.55:594][308]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.14-09.25.55:594][308]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029C503D4400), frame # 96308
+[2020.10.14-09.25.55:594][308]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029CA21DF9C0), frame # 96308
+[2020.10.14-09.25.55:594][308]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2020.10.14-09.25.55:594][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.292153s)
+[2020.10.14-09.25.55:629][308]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.10.14-09.25.55:631][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-09.25.55:631][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-09.25.55:631][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-09.25.55:631][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-09.25.55:631][308]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-09.25.55:631][308]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-09.25.55:631][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-09.25.55:631][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-09.25.55:632][308]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-09.25.55:632][308]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-09.25.55:643][308]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-09.25.55:643][308]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-09.25.55:677][308]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (Corsair VOID PRO Surround USB Adapter)
+[2020.10.14-09.25.55:677][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-09.25.55:677][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-09.25.55:677][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-09.25.55:678][308]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-09.25.55:688][308]LogInit: FAudioDevice initialized.
+[2020.10.14-09.25.55:700][308]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.14-09.25.55:742][308]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.10.14-11.25.55
+[2020.10.14-09.25.55:744][308]LogWorld: Bringing up level for play took: 0.043511
+[2020.10.14-09.25.55:744][308]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.10.14-09.25.55:793][308]PIE: Server logged in
+[2020.10.14-09.25.55:794][308]PIE: Play in editor total start time 0,493 seconds.
+[2020.10.14-09.26.05:134][935]LogBlueprintUserMessages: [BP_ZoneMaster_2] Temp Lowered
+[2020.10.14-09.26.05:134][935]LogBlueprintUserMessages: [BP_ZoneMaster_2] 36.799999
+[2020.10.14-09.26.07:133][ 72]LogBlueprintUserMessages: [BP_ZoneMaster_2] Temp Lowered
+[2020.10.14-09.26.07:133][ 72]LogBlueprintUserMessages: [BP_ZoneMaster_2] 36.599998
+[2020.10.14-09.26.09:122][209]LogBlueprintUserMessages: [BP_ZoneMaster_2] Temp Lowered
+[2020.10.14-09.26.09:122][209]LogBlueprintUserMessages: [BP_ZoneMaster_2] 36.399998
+[2020.10.14-09.26.11:122][347]LogBlueprintUserMessages: [BP_ZoneMaster_2] Temp Lowered
+[2020.10.14-09.26.11:122][347]LogBlueprintUserMessages: [BP_ZoneMaster_2] 36.199997
+[2020.10.14-09.26.13:132][485]LogBlueprintUserMessages: [BP_ZoneMaster_2] Temp Lowered
+[2020.10.14-09.26.13:132][485]LogBlueprintUserMessages: [BP_ZoneMaster_2] 35.999996
+[2020.10.14-09.26.15:121][621]LogBlueprintUserMessages: [BP_ZoneMaster_2] Temp Lowered
+[2020.10.14-09.26.15:121][621]LogBlueprintUserMessages: [BP_ZoneMaster_2] 35.799995
+[2020.10.14-09.26.17:120][758]LogBlueprintUserMessages: [BP_ZoneMaster_2] Temp Lowered
+[2020.10.14-09.26.17:120][758]LogBlueprintUserMessages: [BP_ZoneMaster_2] 35.599995
+[2020.10.14-09.26.19:126][893]LogBlueprintUserMessages: [BP_ZoneMaster_2] Temp Lowered
+[2020.10.14-09.26.19:126][893]LogBlueprintUserMessages: [BP_ZoneMaster_2] 35.399994
+[2020.10.14-09.26.19:352][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-09.26.19:352][906]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.14-09.26.19:352][906]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-09.26.19:362][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-09.26.19:369][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-09.26.19:376][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-09.26.19:425][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-09.26.19:576][906]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000029CA21DF9C0), frame # 97906
+[2020.10.14-09.26.19:577][906]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000029C503D4400), frame # 97906
+[2020.10.14-09.26.19:582][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.10.14-09.26.19:642][907]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.10.14-09.26.22:311][ 63]LogEditorViewport: Clicking on Actor (LMB): BP_ZoneMaster_C (BP_ZoneMaster3)
+[2020.10.14-09.26.47:045][394]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyCreations/Blueprints/Master/BP_ZoneMaster.BP_ZoneMaster
+[2020.10.14-09.26.57:060][954]BlueprintLog: New page: Compile BP_ZoneMaster
+[2020.10.14-09.26.57:131][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.10.14-09.26.58:821][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.14-09.26.58:945][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-09.26.58:945][ 39]PIE: New page: PIE session: FirstPersonExampleMap (14 okt. 2020 13:26:58)
+[2020.10.14-09.26.58:946][ 39]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.14-09.26.59:240][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.294605s)
+[2020.10.14-09.26.59:242][ 39]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.14-09.26.59:242][ 39]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029C8D381A00), frame # 100039
+[2020.10.14-09.26.59:242][ 39]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029C8C10AC00), frame # 100039
+[2020.10.14-09.26.59:242][ 39]LogPlayLevel: PIE: World Init took: (0.001657s)
+[2020.10.14-09.26.59:242][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.296418s)
+[2020.10.14-09.26.59:275][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.10.14-09.26.59:279][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-09.26.59:279][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-09.26.59:279][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-09.26.59:279][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-09.26.59:279][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-09.26.59:279][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-09.26.59:279][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-09.26.59:279][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-09.26.59:280][ 39]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-09.26.59:280][ 39]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-09.26.59:289][ 39]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-09.26.59:289][ 39]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-09.26.59:321][ 39]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (Corsair VOID PRO Surround USB Adapter)
+[2020.10.14-09.26.59:322][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-09.26.59:322][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-09.26.59:322][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-09.26.59:322][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-09.26.59:333][ 39]LogInit: FAudioDevice initialized.
+[2020.10.14-09.26.59:343][ 39]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.14-09.26.59:387][ 39]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.10.14-11.26.59
+[2020.10.14-09.26.59:388][ 39]LogWorld: Bringing up level for play took: 0.044468
+[2020.10.14-09.26.59:389][ 39]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.10.14-09.26.59:399][ 39]PIE: Server logged in
+[2020.10.14-09.26.59:400][ 39]PIE: Play in editor total start time 0,456 seconds.
+[2020.10.14-09.27.06:199][445]LogBlueprintUserMessages: [BP_ZoneMaster_2] Temp Lowered
+[2020.10.14-09.27.06:199][445]LogBlueprintUserMessages: [BP_ZoneMaster_2] 33.0
+[2020.10.14-09.27.08:209][570]LogBlueprintUserMessages: [BP_ZoneMaster_2] Temp Lowered
+[2020.10.14-09.27.08:209][570]LogBlueprintUserMessages: [BP_ZoneMaster_2] 29.0
+[2020.10.14-09.27.10:206][694]LogBlueprintUserMessages: [BP_ZoneMaster_2] Temp Lowered
+[2020.10.14-09.27.10:206][694]LogBlueprintUserMessages: [BP_ZoneMaster_2] 25.0
+[2020.10.14-09.27.17:287][139]LogBlueprintUserMessages: [BP_ZoneMaster2] Temp Increased
+[2020.10.14-09.27.17:287][139]LogBlueprintUserMessages: [BP_ZoneMaster2] 29.0
+[2020.10.14-09.27.19:276][264]LogBlueprintUserMessages: [BP_ZoneMaster2] Temp Increased
+[2020.10.14-09.27.19:277][264]LogBlueprintUserMessages: [BP_ZoneMaster2] 33.0
+[2020.10.14-09.27.21:285][391]LogBlueprintUserMessages: [BP_ZoneMaster2] Temp Increased
+[2020.10.14-09.27.21:285][391]LogBlueprintUserMessages: [BP_ZoneMaster2] 37.0
+[2020.10.14-09.27.23:290][517]LogBlueprintUserMessages: [BP_ZoneMaster2] Temp Increased
+[2020.10.14-09.27.23:290][517]LogBlueprintUserMessages: [BP_ZoneMaster2] 41.0
+[2020.10.14-09.27.28:632][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-09.27.28:632][850]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.14-09.27.28:633][850]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-09.27.28:641][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-09.27.28:659][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-09.27.28:666][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-09.27.28:723][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-09.27.28:728][850]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000029C8C10AC00), frame # 101850
+[2020.10.14-09.27.28:728][850]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000029C8D381A00), frame # 101850
+[2020.10.14-09.27.28:735][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.10.14-09.27.28:928][851]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.10.14-09.28.17:356][371]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.14-09.28.17:382][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-09.28.17:382][371]PIE: New page: PIE session: FirstPersonExampleMap (14 okt. 2020 13:28:17)
+[2020.10.14-09.28.17:382][371]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.14-09.28.17:678][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.296361s)
+[2020.10.14-09.28.17:679][371]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.14-09.28.17:679][371]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000029C6D146000), frame # 104371
+[2020.10.14-09.28.17:679][371]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000029B958D1800), frame # 104371
+[2020.10.14-09.28.17:680][371]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2020.10.14-09.28.17:680][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.297958s)
+[2020.10.14-09.28.17:711][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.10.14-09.28.17:717][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-09.28.17:717][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-09.28.17:717][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-09.28.17:717][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-09.28.17:717][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-09.28.17:717][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-09.28.17:717][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-09.28.17:717][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-09.28.17:717][371]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-09.28.17:717][371]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-09.28.17:726][371]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-09.28.17:726][371]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-09.28.17:760][371]LogAudioMixer: Display: Using Audio Device Hörlurar på headset (Corsair VOID PRO Surround USB Adapter)
+[2020.10.14-09.28.17:760][371]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-09.28.17:760][371]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-09.28.17:760][371]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-09.28.17:760][371]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-09.28.17:772][371]LogInit: FAudioDevice initialized.
+[2020.10.14-09.28.17:778][371]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.14-09.28.17:820][371]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.10.14-11.28.17
+[2020.10.14-09.28.17:822][371]LogWorld: Bringing up level for play took: 0.042564
+[2020.10.14-09.28.17:822][371]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.10.14-09.28.17:832][371]PIE: Server logged in
+[2020.10.14-09.28.17:833][371]PIE: Play in editor total start time 0,452 seconds.
+[2020.10.14-09.28.24:558][681]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] true
+[2020.10.14-09.28.28:169][857]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] true
+[2020.10.14-09.28.33:055][106]Cmd: LevelEditor.ToggleImmersive
+[2020.10.14-09.28.33:355][107]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:737).
+[2020.10.14-09.28.52:543][205]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] true
+[2020.10.14-09.28.54:823][338]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] true
+[2020.10.14-09.28.57:493][493]PIE: Warning: The widget 'PickupWidget_C' was already added to the screen.
+[2020.10.14-09.28.57:895][517]PIE: Warning: The widget 'PickupWidget_C' was already added to the screen.
+[2020.10.14-09.28.57:944][520]PIE: Warning: The widget 'PickupWidget_C' was already added to the screen.
+[2020.10.14-09.28.58:911][572]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] true
+[2020.10.14-09.29.01:402][712]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D28
+[2020.10.14-09.29.01:448][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.01:448][712]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D64
+[2020.10.14-09.29.01:448][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.01:448][712]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.02:061][748]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] true
+[2020.10.14-09.29.07:109][ 34]PIE: Warning: The widget 'PickupWidget_C' was already added to the screen.
+[2020.10.14-09.29.07:521][ 58]PIE: Warning: The widget 'PickupWidget_C' was already added to the screen.
+[2020.10.14-09.29.07:577][ 61]PIE: Warning: The widget 'PickupWidget_C' was already added to the screen.
+[2020.10.14-09.29.08:377][107]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D28
+[2020.10.14-09.29.08:377][107]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.08:378][107]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D64
+[2020.10.14-09.29.08:378][107]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.08:378][107]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.09:106][149]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] true
+[2020.10.14-09.29.09:888][195]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] true
+[2020.10.14-09.29.19:347][745]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D28
+[2020.10.14-09.29.19:348][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.19:348][745]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D64
+[2020.10.14-09.29.19:348][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.19:348][745]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.19:778][771]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D28
+[2020.10.14-09.29.19:778][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.19:778][771]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D64
+[2020.10.14-09.29.19:778][771]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.19:778][771]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.20:172][795]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D28
+[2020.10.14-09.29.20:172][795]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.20:172][795]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D64
+[2020.10.14-09.29.20:172][795]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.20:172][795]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.20:456][812]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D28
+[2020.10.14-09.29.20:457][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.20:457][812]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D64
+[2020.10.14-09.29.20:457][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.20:457][812]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.20:642][823]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D28
+[2020.10.14-09.29.20:642][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.20:643][823]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D64
+[2020.10.14-09.29.20:643][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.20:643][823]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.20:811][833]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D28
+[2020.10.14-09.29.20:811][833]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.20:811][833]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D64
+[2020.10.14-09.29.20:811][833]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.20:811][833]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.20:963][842]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0D28
+[2020.10.14-09.29.20:964][842]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.20:964][842]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.20:964][842]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.21:131][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.21:132][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.21:132][852]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.21:289][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.21:289][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.21:289][861]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.22:182][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.22:182][913]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.22:182][913]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.22:340][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.22:341][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.22:341][922]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.22:508][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.22:508][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.22:508][932]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.22:657][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.22:657][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.22:657][940]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.22:809][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.22:809][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.22:809][948]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.22:988][958]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.22:988][958]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.22:988][958]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.23:144][967]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.23:144][967]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.23:144][967]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.23:497][986]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Set IsInteracting
+[2020.10.14-09.29.23:497][986]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Interactable". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Print String
+[2020.10.14-09.29.23:497][986]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] false
+[2020.10.14-09.29.48:391][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-09.29.48:391][426]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.14-09.29.48:392][426]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-09.29.48:402][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-09.29.48:429][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-09.29.48:436][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-09.29.48:467][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-09.29.48:494][426]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000029B958D1800), frame # 109426
+[2020.10.14-09.29.48:494][426]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000029C6D146000), frame # 109426
+[2020.10.14-09.29.48:503][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.10.14-09.29.48:780][427]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.10.14-09.29.54:429][707]LogSlate: Window 'Message Log' being destroyed
+[2020.10.14-09.29.54:435][707]LogSlate: Window 'Message Log' being destroyed
+[2020.10.14-09.30.26:004][341]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder2)
+[2020.10.14-09.32.45:179][ 92]LogEditorTransaction: Undo Edit Margin
+[2020.10.14-09.33.32:774][652]BlueprintLog: New page: Compile GameHud
+[2020.10.14-09.33.32:914][652]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.10.14-09.33.32:986][652]BlueprintLog: New page: Compile GameHud
+[2020.10.14-09.33.33:055][652]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.10.14-09.33.33:123][652]BlueprintLog: New page: Compile GameHud
+[2020.10.14-09.33.33:191][652]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.10.14-09.33.56:725][112]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\Kurs 8 - Avancerad Scripting\Uppgift 2.5 - Lighthouse\Thermometer silhouette.png)
+[2020.10.14-09.33.56:751][112]LogTexture: Display: Building textures: Thermometer_silhouette (AutoDXT, 512X512)
+[2020.10.14-09.33.59:082][126]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\Kurs 8 - Avancerad Scripting\Uppgift 2.5 - Lighthouse\Food Silhouette.png)
+[2020.10.14-09.33.59:092][126]LogTexture: Display: Building textures: Food_Silhouette (BGRA8, 911X720)
+[2020.10.14-09.35.48:414][953]LogEditorFactories: Performing atomic reimport of [E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/Thermometer silhouette.png]
+[2020.10.14-09.35.48:414][953]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/Thermometer silhouette.png)
+[2020.10.14-09.35.48:421][953]LogTexture: Display: Building textures: Thermometer_silhouette (AutoDXT, 512X512)
+[2020.10.14-09.35.48:461][953]LogEditorFactories: -- imported successfully
+[2020.10.14-09.36.28:368][783]LogEditorTransaction: Undo Resize Widget
+[2020.10.14-09.36.28:959][792]LogEditorTransaction: Undo Move Widget
+[2020.10.14-09.36.29:363][812]LogEditorTransaction: Undo Resize Widget
+[2020.10.14-09.36.29:724][830]LogEditorTransaction: Undo Resize Widget
+[2020.10.14-09.36.50:203][ 15]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.14-09.36.51:825][110]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/MyCreations/Materials/Food_Silhouette.Food_Silhouette
+[2020.10.14-09.36.52:217][110]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2020.10.14-09.37.32:919][509]LogEditorTransaction: Undo Edit Margin
+[2020.10.14-09.37.33:197][513]Cmd: TRANSACTION UNDO
+[2020.10.14-09.37.33:197][513]LogEditorTransaction: Undo Edit X
+[2020.10.14-09.37.41:553][985]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.14-09.38.39:571][981]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.10.14-09.38.46:439][981]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/FirstPersonExampleMap_Auto6389EB35646F83C87A55E07B92C2E36DA.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2020.10.14-09.38.46:815][981]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 7.352
+[2020.10.14-09.38.46:815][981]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 7.352
+[2020.10.14-09.38.46:815][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.10.14-09.38.46:855][981]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.10.14-09.38.46:856][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.10.14-09.38.47:091][981]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/FirstPersonCharacter_Auto65A3FF3204B7801D5F1763F948EF9F88F.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset'
+[2020.10.14-09.38.47:113][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyCreations/Widgets/GameHud] ([1] browsable assets)...
+[2020.10.14-09.38.47:113][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyCreations/Widgets/GameHud]
+[2020.10.14-09.38.47:352][981]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/GameHud_Auto60780A6F14366F4815290A4A392ED4ACC.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/MyCreations/Widgets/GameHud_Auto6.uasset'
+[2020.10.14-09.38.47:375][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyCreations/Blueprints/Master/BP_ZoneMaster] ([1] browsable assets)...
+[2020.10.14-09.38.47:375][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyCreations/Blueprints/Master/BP_ZoneMaster]
+[2020.10.14-09.38.47:490][981]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/BP_ZoneMaster_Auto6404F5A954121D2FFCCC93B8D3CAC709F.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/MyCreations/Blueprints/Master/BP_ZoneMaster_Auto6.uasset'
+[2020.10.14-09.38.47:496][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyCreations/Blueprints/Pickups/BP_Interactable_Pickup] ([1] browsable assets)...
+[2020.10.14-09.38.47:496][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyCreations/Blueprints/Pickups/BP_Interactable_Pickup]
+[2020.10.14-09.38.47:666][981]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/BP_Interactable_Pickup_Auto60E900D3A4F0FB968C836B596BF729A0D.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/MyCreations/Blueprints/Pickups/BP_Interactable_Pickup_Auto6.uasset'
+[2020.10.14-09.38.47:688][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyCreations/Blueprints/Pickups/BP_Pickup_Mushroom] ([1] browsable assets)...
+[2020.10.14-09.38.47:689][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyCreations/Blueprints/Pickups/BP_Pickup_Mushroom]
+[2020.10.14-09.38.47:791][981]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/BP_Pickup_Mushroom_Auto6905443344FDF6676ACF667816FBC7200.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/MyCreations/Blueprints/Pickups/BP_Pickup_Mushroom_Auto6.uasset'
+[2020.10.14-09.38.47:910][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyCreations/Materials/Thermometer_silhouette] ([1] browsable assets)...
+[2020.10.14-09.38.47:914][981]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyCreations/Materials/Thermometer_silhouette.Thermometer_silhouette]
+[2020.10.14-09.38.47:914][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyCreations/Materials/Thermometer_silhouette]
+[2020.10.14-09.38.48:308][981]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Thermometer_silhouette_Auto6CBA70BA04019C0EE37D0B0891AA5626A.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/MyCreations/Materials/Thermometer_silhouette_Auto6.uasset'
+[2020.10.14-09.38.48:326][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyCreations/Materials/Food_Silhouette] ([1] browsable assets)...
+[2020.10.14-09.38.48:329][981]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MyCreations/Materials/Food_Silhouette.Food_Silhouette]
+[2020.10.14-09.38.48:329][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyCreations/Materials/Food_Silhouette]
+[2020.10.14-09.38.48:402][981]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Food_Silhouette_Auto67F18DC8C4CC1520B5013E6BFB758D09D.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Autosaves/Game/MyCreations/Materials/Food_Silhouette_Auto6.uasset'
+[2020.10.14-09.38.48:403][981]LogFileHelpers: Auto-saving content packages took 1.589
+[2020.10.14-09.39.09:642][119]LogTexture: Display: Building textures: Food_Silhouette (AutoDXT, 911X720)
+[2020.10.14-09.39.11:487][230]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Food_Silhouette6BE801184C635610B7147DA942498E7A.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Content/MyCreations/Materials/Food_Silhouette.uasset'
+[2020.10.14-09.39.11:524][230]AssetCheck: New page: Asset Save: Food_Silhouette
+[2020.10.14-09.39.11:524][230]LogContentValidation: Display: Validating Texture2D /Game/MyCreations/Materials/Food_Silhouette.Food_Silhouette
+[2020.10.14-09.39.29:237][465]LogSavePackage: Moving 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Saved/Food_Silhouette2DFD6327412D2DCD994CCD800B8A062B.tmp' to 'E:/Kurs 8 - Avancerad Scripting/Uppgift 2.5 - Lighthouse/LightHouse/Content/MyCreations/Materials/Food_Silhouette.uasset'
+[2020.10.14-09.39.29:250][465]AssetCheck: New page: Asset Save: Food_Silhouette
+[2020.10.14-09.39.29:251][465]LogContentValidation: Display: Validating Texture2D /Game/MyCreations/Materials/Food_Silhouette.Food_Silhouette
+[2020.10.14-09.39.38:688][ 85]LogEditorTransaction: Undo Edit Margin
+[2020.10.14-09.39.51:989][873]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.14-09.40.11:289][ 62]LogEditorTransaction: Undo Edit Margin
+[2020.10.14-09.40.11:506][ 66]Cmd: TRANSACTION UNDO
+[2020.10.14-09.40.11:506][ 66]LogEditorTransaction: Undo Set Vector Property
+[2020.10.14-09.40.27:470][ 20]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.14-09.40.39:924][776]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.14-09.41.59:671][583]LogEditorTransaction: Undo Edit R
+[2020.10.14-09.41.59:984][588]LogEditorTransaction: Undo Edit Size To Content
+[2020.10.14-09.42.00:249][593]LogEditorTransaction: Undo Edit Size To Content
+[2020.10.14-09.42.00:491][605]LogEditorTransaction: Undo Move Widget
+[2020.10.14-09.42.00:730][614]LogEditorTransaction: Undo Move Widget
+[2020.10.14-09.42.00:998][626]LogEditorTransaction: Undo Move Widget
+[2020.10.14-09.42.53:868][ 82]LogEditorTransaction: Undo Remove Widget
+[2020.10.14-09.43.12:830][104]LogEditorTransaction: Undo Move Widget
+[2020.10.14-09.43.35:922][457]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.14-09.43.41:345][781]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.14-09.44.39:362][347]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.14-09.48.46:009][807]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\Kurs 8 - Avancerad Scripting\Uppgift 2.5 - Lighthouse\Thermometer silhouette fill.png)
+[2020.10.14-09.48.46:016][807]LogTexture: Display: Building textures: Thermometer_silhouette_fill (AutoDXT, 512X512)
+[2020.10.14-09.50.06:542][482]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.14-09.50.53:245][847]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.10.14-09.50.54:837][847]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.592 s
+[2020.10.14-09.50.54:846][847]LogOutputDevice: Error: === Handled ensure: ===
+[2020.10.14-09.50.54:846][847]LogOutputDevice: Error: 
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/UMG/Private/Slate/SObjectWidget.cpp] [Line: 43]
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: SObjectWidget for 'W_InventorySlot_C /Engine/Transient.World_7:GameHud_C_99.WidgetTree_0.Slot_0' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: Stack: 
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa7788a8ee UE4Editor-UMG.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa776ee9a2 UE4Editor-UMG.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa8919d6f1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa898f4e85 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa898e1212 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa898e750d UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa8919d6f1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa89118176 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa8910fd1a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa8919d6f1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa8911c4ac UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa8910fa0a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa8919d6f1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa89118176 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa8910fd1a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa8919d6f1 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa898f4c5e UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa898e1312 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa898e6159 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa777b5ae2 UE4Editor-UMG.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa9f04bcc8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa9f029f9b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa9efb9d33 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa9efb8f9c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa786757db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa7883313c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffa78be1d81 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ff7df607800 UE4Editor.exe!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ff7df61ba7c UE4Editor.exe!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ff7df61bb5a UE4Editor.exe!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ff7df62e31d UE4Editor.exe!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ff7df63145a UE4Editor.exe!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007ffaccf77bd4 KERNEL32.DLL!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: [Callstack] 0x00007fface5cce51 ntdll.dll!UnknownFunction []
+[2020.10.14-09.50.54:847][847]LogOutputDevice: Error: 
